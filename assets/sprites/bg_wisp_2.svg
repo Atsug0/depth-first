@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <!-- bg_wisp_2 - genere par tools/gen_sprites.py, ne pas editer a la main -->
+  <rect x="7" y="4" width="2" height="1" fill="#39FF14"/>
+  <rect x="6" y="5" width="1" height="1" fill="#39FF14"/>
+  <rect x="7" y="5" width="2" height="1" fill="#D0C8D6"/>
+  <rect x="9" y="5" width="1" height="1" fill="#39FF14"/>
+  <rect x="6" y="6" width="4" height="1" fill="#39FF14"/>
+  <rect x="7" y="7" width="2" height="1" fill="#39FF14"/>
+  <rect x="7" y="8" width="1" height="1" fill="#39FF14"/>
+  <rect x="7" y="9" width="1" height="1" fill="#39FF14"/>
+  <rect x="8" y="10" width="1" height="1" fill="#39FF14"/>
+</svg>
